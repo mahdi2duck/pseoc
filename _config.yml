@@ -1,0 +1,10 @@
+title: Programmatic SEO Research Articles
+description: A collection of research articles on programmatic SEO, AI, and travel blogs.
+theme: minima
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
